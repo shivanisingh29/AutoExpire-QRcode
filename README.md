@@ -33,7 +33,7 @@ streamlit run app.py
 Automation Project (Intermediate Level)
 
 ## Author
-Shivani Chauhan
+Shivani singh
 
 ## Real Life Use Cases
 
