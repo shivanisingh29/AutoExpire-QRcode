@@ -42,3 +42,10 @@ Shivani Chauhan
 - Secure document sharing
 - Office visitor or meeting access
 - Time-based automation practice
+- 
+## Work In Progress
+
+I am currently working on adding more automation features such as:
+- Email alert before QR code expiry
+- Expiry notification messages
+- Improved validation logic
